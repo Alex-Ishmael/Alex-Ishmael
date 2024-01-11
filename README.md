@@ -1,4 +1,7 @@
-# My Languages
+![github-header-image (21)](https://github.com/Alex-Ishmael/Alex-Ishmael/assets/92725864/5564e00b-98df-4c1c-be3a-76d36a2c7cee)
+
+
+## My Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
@@ -11,13 +14,13 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 
-# Languages I'm Learning
+## Languages I'm Learning
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 
-# Frameworks, Tools, and Libraries
+## Frameworks, Tools, and Libraries
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![VScode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)

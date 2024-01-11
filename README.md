@@ -1,10 +1,5 @@
-<div style="background-color: #B6D0E2; padding: 10px;">
-  
-# Your Markdown Content Goes Here
 
-This is a paragraph of text.
 
-- List item 1
-- List item 2
+# Languages
 
-</div>
+![C](https://img.shields.io/badge/<C>-<#A8B9CC>?style=for-the-badge&logo=<C>&logoColor=<#000000>)

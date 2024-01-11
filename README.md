@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 10px;">
+<div style="background-color: #B6D0E2; padding: 10px;">
   
 # Your Markdown Content Goes Here
 

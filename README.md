@@ -1,7 +1,10 @@
-<style>
-  body {background-color: powder-blue}
-</style>
+<div style="background-color: #f0f0f0; padding: 10px;">
+  
+# Your Markdown Content Goes Here
 
-<body>
-  <h1> Hi, my name is Alex! Welcome to my Github </h1>
-</body>
+This is a paragraph of text.
+
+- List item 1
+- List item 2
+
+</div>

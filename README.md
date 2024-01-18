@@ -33,3 +33,7 @@
 ![VMWARE](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
+
+## Welcome
+
+Thanks for checking out my GitHub! Feel free to check out the pinned repositories for projects I'm currently working on. If you're interested in collaborating or have any questions, write me an email and I will get back to you as soon as possible!

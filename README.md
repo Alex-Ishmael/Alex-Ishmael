@@ -19,7 +19,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-For-Unreal-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white)
+![Blueprint-For-Unreal](https://img.shields.io/badge/Blueprint-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white)
 
 
 ## Frameworks, Tools, and Libraries
